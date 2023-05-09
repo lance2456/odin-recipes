@@ -1,0 +1,30 @@
+body{
+    font-family: "DejaVu Sans", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    color: #2e5984;
+}
+
+h1.title{
+    color: #ed7014;
+}
+
+.link{
+    text-align: center;
+    list-style-position: inside;
+    font-size: 18px;
+    line-height: 2.0;
+}
+
+img {
+    height: 350px;
+    width: auto;
+}
+
+h2,
+h3{
+    color: #ed7014;
+}
